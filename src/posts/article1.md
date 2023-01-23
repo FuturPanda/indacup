@@ -7,4 +7,6 @@ date : 2023-01-22
 
 It is just my first application of eleventy. 
 Grabbing the jist of it with this awesome tutorial : 
+
+
 https://www.youtube.com/watch?v=PPZGdolA_ns&t=7001s
