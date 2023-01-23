@@ -1,0 +1,17 @@
+{
+  "name": "indacup",
+  "version": "0.1.0",
+  "description": "eleventy blog start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx @11ty/eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0-beta.1",
+    "eleventy-plugin-embed-everything": "^1.15.0"
+  }
+}
