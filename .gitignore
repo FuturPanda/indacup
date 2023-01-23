@@ -1,5 +1,5 @@
-node_modules
-_src
+node_modules/
+_src/
 .eleventy.js
 package-lock.json
 package.json
