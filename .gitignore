@@ -1,2 +1,6 @@
 node_modules
 _site
+_src
+.eleventy.js
+package-lock.json
+package.json
